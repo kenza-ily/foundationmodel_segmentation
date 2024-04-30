@@ -1,12 +1,4 @@
-# Instructions - Group 6
-
-**Group 6 - Instruction**
-
-**Authors**:  
-Group 6
-
-**Affiliation**:  
-University College London (UCL), WC1E 6BT, London, United-Kingdom
+# Instructions 
 
 ---
 
